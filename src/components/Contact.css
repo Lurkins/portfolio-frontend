@@ -1,0 +1,26 @@
+#section_5 {
+    background-color: #101010;
+    /* min-height: 100vh; */
+}
+
+.message-heading, .social-heading {
+    color: #CCFB69;
+}
+
+.social-icons a {
+    color: #75FBD2;
+    font-size: 2.5em;
+}
+
+.social-icons a:hover {
+    color: #CCFB69;
+}
+
+.contact-form-submit {
+    background-color: #75FBD2 !important;
+    color: #14264D !important;
+}
+
+.contact-form-submit:hover {
+    background-color: #CCFB69 !important;
+}

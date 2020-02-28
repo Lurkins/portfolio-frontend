@@ -1,0 +1,52 @@
+#section_2 {
+    background-color: #14264D;
+    min-height: 100vh;
+}
+
+#section_2 .about-intro {
+    font-size: 3em;
+    color: #CCFB69 !important;
+}
+
+.tech-info {
+    font-size: 3em;
+    color: #75FBD2 !important;
+}
+
+.about-bio {
+    font-size: 1.22em;
+}
+
+.tech-info-heading {
+    font-size: 1em;
+    color: #75FBD2;
+}
+
+.tech-info-label {
+    font-size: .33em;
+}
+
+.tech-info-subheading {
+    color: #CCFB69 !important;
+}
+
+@media (min-width: 576px) {
+    .tech-info-label {
+        font-size: .4em;
+    }
+  }
+  @media (min-width: 768px) {
+    .tech-info-label {
+        font-size: .4em;
+    }
+  }
+  @media (min-width: 992px) {
+    .tech-info-label {
+        font-size: .3em;
+    }
+  }
+  @media (min-width: 1200px) {
+    .tech-info-label {
+        font-size: .4em;
+    }
+  }

@@ -1,0 +1,33 @@
+#section_4 {
+    position: relative;
+}
+
+.resume-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+}
+
+.resume-heading {
+    color: #CCFB69;
+}
+
+.resume-icon {
+    width: 50px;
+    height: auto;
+}
+
+#resume-link {
+    background: #14264D;
+    color: #75FBD2;
+    transition: all .25s;
+
+}
+
+#resume-link:hover {
+    text-decoration: none;
+    background: #CCFB69;
+    color: #14264D;
+}
