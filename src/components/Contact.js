@@ -25,7 +25,7 @@ class Contact extends Component {
         const { name, email, message } = this.state;
         
         try {
-            const response = await axios.post('http://ec2-54-186-65-10.us-west-2.compute.amazonaws.com/api/form', { name, email, message });
+            const response = await axios.post('https://paulsapi.com/api/form', { name, email, message });
             console.log('👉 Returned data:', response);
             response.data.type === 'success' ? this.setState({ alert: response.data.type, isFormDisabled: true, isFormVisible: false }) : this.setState({ alert: response.data.type })
         } catch (e) {
