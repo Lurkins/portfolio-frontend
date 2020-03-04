@@ -5,6 +5,11 @@
 
 .message-heading, .social-heading {
     color: #CCFB69;
+    font-size: 3.5em;
+    font-family: brandon-grotesque, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow: 0px .05em 0 #353535, 0px .07em 5px #75FBD2;
 }
 
 .social-icons a {
