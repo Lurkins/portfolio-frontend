@@ -10,7 +10,7 @@ const Navbar = () => (
     headerBackground="false"
   >  
     <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="nav">
-      <a className="navbar-brand border border-light font-weight-bold py-2 pl-1 pr-3" href="#section_1">P2</a>
+      <a className="navbar-brand border border-light font-weight-bold py-2 pl-1 logo" href="#section_1"><div className="logo-exponent ml-4 mt-1">2</div><div className="logo-initial mr-4">P</div></a>
       <button className="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
