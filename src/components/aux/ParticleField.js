@@ -16,7 +16,7 @@ const config = {
   // 'passthru' particles will disappear after hitting canvas boundaries and be added back into the scene elsewhere
   boundaryType: 'bounce',
   // Maximum velocity of particles
-  velocity: 2,
+  velocity: .1,
   // Toggles antialiasing -- must be set during construction, cannot be changed after initial render
   // Slight performance optimization to set false, although lines will appear more jagged
   antialias: false,
@@ -75,13 +75,13 @@ const config = {
     enabled: true,
     // Enable or disable smooth dampening of camera movement
     enableDamping: true,
-    dampingFactor: 0.2,
+    dampingFactor: 0.05,
     // Enable or disable zooming in/out of camera
     enableZoom: false,
     // Enable or disable constant rotation of camera around scene
     autoRotate: true,
     // Rotation speed -- higher is faster
-    autoRotateSpeed: 1,
+    autoRotateSpeed: .5,
     // If true, camera position will be reset whenever any option changes (including this one)
     // Useful when turning off autoRotate, the camera will return to FOV where scene fits to canvas
     resetCameraFlag: false
