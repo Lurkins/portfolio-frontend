@@ -32,12 +32,12 @@ const About = () => (
                 <div className="col-12 col-lg-7 offset-lg-1 text-light tech-info">
                     <div className="row">
                         <div className="col-12">
-                            <h3 className="text-center tech-info-heading pb-5 my-5">Skills</h3>
+                            <h3 className="text-center font-weight-bold tech-info-heading pb-5 my-5">SKILLS</h3>
                         </div>
                     </div>
                     <div className="row mb-5">
                         <div className="col-12 col-md-5 mb-5">
-                            <h3 className="text-center tech-info-subheading">Frontend</h3>
+                            <h3 className="text-center tech-info-subheading font-weight-bold">Frontend</h3>
                             <hr className="bg-light" />
                             <div className="row">
                                 <div className="col-4">
@@ -67,7 +67,7 @@ const About = () => (
                             </div>
                         </div>
                         <div className="col-12 col-md-5 offset-md-2">
-                            <h3 className="text-center tech-info-subheading">Backend</h3>
+                            <h3 className="text-center tech-info-subheading font-weight-bold">Backend</h3>
                             <hr className="bg-light" />
                             <div className="row">
                                 <div className="col-4">
@@ -99,7 +99,7 @@ const About = () => (
                     </div>
                     <div className="row">
                         <div className="col-12 col-md-4 offset-md-4 mb-5">
-                            <h3 className="text-center tech-info-subheading">Design</h3>
+                            <h3 className="text-center tech-info-subheading font-weight-bolder">Design</h3>
                             <hr className="bg-light" />
                             <div className="row">
                                 <div className="col-6">

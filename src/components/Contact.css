@@ -22,10 +22,16 @@
 }
 
 .contact-form-submit {
-    background-color: #75FBD2 !important;
+    background-color: #CCFB69 !important;
     color: #14264D !important;
+    font-family: brandon-grotesque, sans-serif;
+    font-size: 1.3em !important;
 }
 
 .contact-form-submit:hover {
-    background-color: #CCFB69 !important;
+    background-color: rgb(151, 186, 76) !important;
+}
+
+label {
+    font-family: 'Open Sans', sans-serif;
 }

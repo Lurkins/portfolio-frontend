@@ -23,7 +23,8 @@
     background: #14264D;
     color: #75FBD2;
     transition: all .25s;
-
+    font-family: brandon-grotesque, sans-serif;
+    font-size: 1.7em;
 }
 
 #resume-link:hover {

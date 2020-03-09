@@ -5,6 +5,7 @@
 
 #section_2 .about-intro {
     font-size: 3em;
+    font-family: brandon-grotesque, sans-serif;
     color: #CCFB69 !important;
 }
 
@@ -19,6 +20,7 @@
 
 .tech-info-heading {
     font-size: 1em;
+    font-family: brandon-grotesque, sans-serif;
     color: #75FBD2;
 }
 
@@ -28,6 +30,8 @@
 
 .tech-info-subheading {
     color: #CCFB69 !important;
+    font-family: brandon-grotesque, sans-serif; 
+    font-size: .75em;  
 }
 
 @media (min-width: 576px) {
