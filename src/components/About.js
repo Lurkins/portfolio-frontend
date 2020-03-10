@@ -32,7 +32,7 @@ const About = () => (
                 <div className="col-12 col-lg-7 offset-lg-1 text-light tech-info">
                     <div className="row">
                         <div className="col-12">
-                            <h3 className="text-center font-weight-bold tech-info-heading pb-5 my-5">SKILLS</h3>
+                            <h3 className="text-center text-light font-weight-bold tech-info-heading pb-5 my-5">SKILLS</h3>
                         </div>
                     </div>
                     <div className="row mb-5">
