@@ -1,8 +1,6 @@
 import React from 'react';
 import './Footer.css';
 import testImage from '../logo.svg'
-// import { Parallax, ParallaxBanner } from 'react-scroll-parallax';
-// import ParallaxImage from './ParalaxImage';
 
 const Footer = () => (
     <div id="section_3" className="bg-info vh-50">

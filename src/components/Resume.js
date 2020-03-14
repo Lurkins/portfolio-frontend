@@ -2,7 +2,6 @@ import React from 'react';
 import './Resume.css';
 import resume from '../resume/dummy.pdf';
 import ParticleField from './aux/ParticleField';
-
 import { FaRegFilePdf } from 'react-icons/fa';
 
 const Resume = () => (

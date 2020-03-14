@@ -1,7 +1,5 @@
 import React from 'react';
 import './Home.css';
-// import { Parallax, ParallaxBanner } from 'react-scroll-parallax';
-// import ParallaxImage from './ParalaxImage';
 import ParticleField from './aux/ParticleField';
 
 const Home = () => (

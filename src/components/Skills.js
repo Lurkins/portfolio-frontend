@@ -1,8 +1,6 @@
 import React from 'react';
 import './Skills.css';
 import testImage from '../logo.svg'
-// import { Parallax, ParallaxBanner } from 'react-scroll-parallax';
-// import ParallaxImage from './ParalaxImage';
 
 const Skills = () => (
     <div id="section_3" className="bg-danger vh-100">

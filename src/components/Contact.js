@@ -100,14 +100,12 @@ class Contact extends Component {
                         <div className="col-12">
                             <div className="d-flex pb-5 justify-content-center social-icons">
                                 <div className="pr-3">
-                                    <a href="https://github.com/Lurkins" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-                                    
+                                    <a href="https://github.com/Lurkins" target="_blank" rel="noopener noreferrer"><FaGithub /></a> 
                                 </div>
                                 <div className="pl-3">
                                     <a href="https://www.linkedin.com/in/paul-perkins-92069017a/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
                                 </div>
                             </div>
-   
                         </div>
                     </div>
                 </div>
