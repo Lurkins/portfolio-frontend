@@ -35,8 +35,8 @@ const About = () => (
                             <h3 className="text-center text-light font-weight-bold tech-info-heading pb-5 my-5">SKILLS</h3>
                         </div>
                     </div>
-                    <div className="row mb-5">
-                        <div className="col-12 col-md-5 mb-5">
+                    <div className="row">
+                        <div className="col-12 col-md-6 mb-5">
                             <h3 className="text-center tech-info-subheading font-weight-bold">Frontend</h3>
                             <hr className="bg-light" />
                             <div className="row">
@@ -66,7 +66,7 @@ const About = () => (
                                 </div>
                             </div>
                         </div>
-                        <div className="col-12 col-md-5 offset-md-2">
+                        <div className="col-12 col-md-6 mb-5">
                             <h3 className="text-center tech-info-subheading font-weight-bold">Backend</h3>
                             <hr className="bg-light" />
                             <div className="row">
@@ -91,7 +91,7 @@ const About = () => (
                                         <div className="d-flex justify-content-center">
                                             <DiPostgresql />
                                         </div>
-                                        <p className="tech-info-label text-center">PostGreSQL</p>
+                                        <p className="tech-info-label text-center">PostGreS</p>
                                     </div>
                                 </div>
                             </div>
