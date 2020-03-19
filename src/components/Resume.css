@@ -20,8 +20,10 @@
 }
 
 #resume-link {
-    background: #14264D;
-    color: #75FBD2;
+    /* background: #14264D; */
+    /* color: #75FBD2; */
+    color: #14264D !important;
+    background-color: #CCFB69 !important;
     transition: all .25s;
     font-family: brandon-grotesque, sans-serif;
     font-size: 1.7em;
@@ -29,6 +31,7 @@
 
 #resume-link:hover {
     text-decoration: none;
-    background: #CCFB69;
+    /* background: #CCFB69; */
+    background-color: rgb(151, 186, 76) !important;
     color: #14264D;
 }
